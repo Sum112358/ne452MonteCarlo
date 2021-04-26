@@ -1,0 +1,10 @@
+{
+    "PIGS" : false,
+    "T" : 1.0,
+    "m_max": 100,
+    "N_accept": 0,
+    "N_total": 0,
+    "MC_steps": 10000,
+    "Nskip": 100,
+    "N": 2
+}

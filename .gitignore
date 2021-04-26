@@ -1,0 +1,13 @@
+*
+!*/
+!*.*
+
+*.log
+*.out
+./files
+./__pycache__
+*.dat
+*.pyc
+*.png
+settings.json
+./vscode
